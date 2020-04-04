@@ -1,6 +1,10 @@
 Desenvolvido em algoritmos com a liguagem em Python 
 com finalidade de um simples sistema de gerenciamento.
 
+Projeto em conjunto com: Alyson Matheus Vale, Gabriel Batista Félix, José Flávio da Silva Maia.
  
 Developed in algorithms with Python language for 
 the purpose of a simple management system.
+
+
+Project together with: Alyson Matheus Vale, Gabriel Batista Félix, José Flávio da Silva Maia.
