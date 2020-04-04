@@ -1,2 +1,2 @@
-# Pythob Algorithms
-Repository focused on algorithmic projects using Python language.
+# Python Algorithms
+Repository focused on algorithmic projects using Python language
