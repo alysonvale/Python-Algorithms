@@ -1,0 +1,6 @@
+Desenvolvido em algoritmos com a liguagem em Python 
+com finalidade de um simples sistema de gerenciamento.
+
+ 
+Developed in algorithms with Python language for 
+the purpose of a simple management system.
